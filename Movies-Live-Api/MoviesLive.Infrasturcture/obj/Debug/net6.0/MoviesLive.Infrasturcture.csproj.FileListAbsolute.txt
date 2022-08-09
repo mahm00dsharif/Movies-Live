@@ -1,0 +1,17 @@
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Infrasturcture\bin\Debug\net6.0\MoviesLive.Infrasturcture.deps.json
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Infrasturcture\bin\Debug\net6.0\MoviesLive.Infrasturcture.dll
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Infrasturcture\bin\Debug\net6.0\MoviesLive.Infrasturcture.pdb
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Infrasturcture\bin\Debug\net6.0\MoviesLive.Domain.dll
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Infrasturcture\bin\Debug\net6.0\MoviesLive.Domain.pdb
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Infrasturcture\obj\Debug\net6.0\MoviesLive.Infrasturcture.csproj.AssemblyReference.cache
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Infrasturcture\obj\Debug\net6.0\MoviesLive.Infrasturcture.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Infrasturcture\obj\Debug\net6.0\MoviesLive.Infrasturcture.AssemblyInfoInputs.cache
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Infrasturcture\obj\Debug\net6.0\MoviesLive.Infrasturcture.AssemblyInfo.cs
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Infrasturcture\obj\Debug\net6.0\MoviesLive.Infrasturcture.csproj.CoreCompileInputs.cache
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Infrasturcture\obj\Debug\net6.0\MoviesLive.Infrasturcture.csproj.CopyComplete
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Infrasturcture\obj\Debug\net6.0\MoviesLive.Infrasturcture.dll
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Infrasturcture\obj\Debug\net6.0\refint\MoviesLive.Infrasturcture.dll
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Infrasturcture\obj\Debug\net6.0\MoviesLive.Infrasturcture.pdb
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Infrasturcture\obj\Debug\net6.0\ref\MoviesLive.Infrasturcture.dll
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Infrasturcture\bin\Debug\net6.0\MoviesLive.Infrasturcture.runtimeconfig.json
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Infrasturcture\obj\Debug\net6.0\MoviesLive.Infrasturcture.genruntimeconfig.cache

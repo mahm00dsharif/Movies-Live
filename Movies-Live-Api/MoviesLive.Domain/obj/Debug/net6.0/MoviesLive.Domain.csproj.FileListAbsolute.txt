@@ -1,0 +1,12 @@
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Domain\bin\Debug\net6.0\MoviesLive.Domain.deps.json
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Domain\bin\Debug\net6.0\MoviesLive.Domain.dll
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Domain\bin\Debug\net6.0\MoviesLive.Domain.pdb
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Domain\obj\Debug\net6.0\MoviesLive.Domain.csproj.AssemblyReference.cache
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Domain\obj\Debug\net6.0\MoviesLive.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Domain\obj\Debug\net6.0\MoviesLive.Domain.AssemblyInfoInputs.cache
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Domain\obj\Debug\net6.0\MoviesLive.Domain.AssemblyInfo.cs
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Domain\obj\Debug\net6.0\MoviesLive.Domain.csproj.CoreCompileInputs.cache
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Domain\obj\Debug\net6.0\MoviesLive.Domain.dll
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Domain\obj\Debug\net6.0\refint\MoviesLive.Domain.dll
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Domain\obj\Debug\net6.0\MoviesLive.Domain.pdb
+F:\Tutorials_Projects\Movies-Live\Movies-Live-Api\MoviesLive.Domain\obj\Debug\net6.0\ref\MoviesLive.Domain.dll

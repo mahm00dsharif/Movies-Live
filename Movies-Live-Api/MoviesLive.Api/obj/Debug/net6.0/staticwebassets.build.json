@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZplJUNh8fvtwzhnuF+D2pcth7CYEhN/S+KFlzjAxazY=",
+  "Source": "MoviesLive.Api",
+  "BasePath": "_content/MoviesLive.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
